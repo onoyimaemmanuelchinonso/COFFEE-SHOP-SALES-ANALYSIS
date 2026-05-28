@@ -17,6 +17,9 @@
 
 Coffee shops operate in a fast-paced environment where every hour impacts revenue, every customer decision matters, and every location tells a different story. Understanding when customers visit, what they buy, and which locations perform best is not just helpful; it is essential for maximizing sales, reducing waste, and optimizing staff schedules. This project analyzes six months of coffee shop sales data from January to June 2023.
 
+<img width="627" height="350" alt="coffee sales analysis dashboard" src="https://github.com/user-attachments/assets/006b13e8-91a2-4731-a166-102b2a8b53e1" />
+
+
 ### Objectives 
 
 - Analyze monthly sales trends and month-over-month growth rates
